@@ -1,0 +1,9 @@
+.vscode/
+build/
+lib/
+uf2/
+CMakeLists.txt
+pico_sdk_import.cmake
+README.md
+ReadmeCN.txt
+ReadmeEN.txt

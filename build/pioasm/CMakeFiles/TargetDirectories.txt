@@ -1,3 +1,0 @@
-C:/Users/Milosz/Desktop/kompas/build/pioasm/CMakeFiles/pioasm.dir
-C:/Users/Milosz/Desktop/kompas/build/pioasm/CMakeFiles/edit_cache.dir
-C:/Users/Milosz/Desktop/kompas/build/pioasm/CMakeFiles/rebuild_cache.dir
